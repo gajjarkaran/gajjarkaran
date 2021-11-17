@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Header](https://github.com/AashimaAhuja/AashimaAhuja/blob/main/images/banner.png)
+
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/gajjarkaran/gajjarkaran">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gajjarkaran&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/gajjarkaran/gajjarkaran">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gajjarkaran&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Karan's's GitHub Stats" />
+</a>
+<a href="https://github.com/gajjarkaran/gajjarkaran">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gajjarkaran&repo=Masonary&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/gajjarkaran/gajjarkaran">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gajjarkaran&repo=star-wars &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/gajjarkaran/gajjarkaran">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gajjarkaran&repo=Infinite-scroll &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
