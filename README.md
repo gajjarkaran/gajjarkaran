@@ -29,3 +29,10 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gajjarkaran&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Karan's's GitHub Stats" />
 </a>
  
+Joined Github {{ ACCOUNT_AGE }} years ago.
+
+Since then I pushed {{ COMMITS }} commits, opened {{ ISSUES }} issues, submitted {{ PULL_REQUESTS }} pull requests, received {{ STARS }} stars across {{ REPOSITORIES }} personal projects and contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} public repositories.
+
+Most used languages across my projects:
+
+{{ LANGUAGE_TEMPLATE_START }} {{LANGUAGE_NAME}} {{ LANGUAGE_TEMPLATE_END }}
