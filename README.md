@@ -19,7 +19,6 @@ I'm a passionate Software Engineer with experience in building web applications 
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gajjarkaran/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:karangajjar96@gmail.com)
 
 ## 🏆 Achievements
 - **SaaS Internal Dashboard**: Led the development of an internal dashboard for a SaaS platform, improving data accessibility and operational efficiency.
