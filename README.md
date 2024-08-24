@@ -1,29 +1,44 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Karan Gajjar 👋</h1>
 
-<!--
-**gajjarkaran/gajjarkaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/gajjarkaran">
+    <img src="https://komarev.com/ghpvc/?username=gajjarkaran&color=brightgreen" alt="Profile Views">
+  </a>
+  <a href="https://github.com/gajjarkaran?tab=followers">
+    <img src="https://img.shields.io/github/followers/gajjarkaran?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gajjarkaran&show_icons=true&theme=dark" alt="GitHub Stats">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gajjarkaran&layout=compact&theme=dark" alt="Top Languages">
+</p>
 
-![](https://komarev.com/ghpvc/?username=gajjarkaran&color=brightgreen)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gajjarkaran&theme=onedark&margin-w=15&margin-h=15" alt="Trophy">
+</p>
 
+<h3 align="center">🔧 Technologies & Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=brightgreen">
+  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=brightgreen">
+  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=brightgreen">
+  <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=brightgreen">
+  <img src="https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=brightgreen">
+  <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node-dot-js&logoColor=white&color=brightgreen">
+  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=brightgreen">
+  <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=brightgreen">
+</p>
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/gajjarkaran/gajjarkaran">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gajjarkaran&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" />
-</a>
-<a href="https://github.com/gajjarkaran/gajjarkaran">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gajjarkaran&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Karan's's GitHub Stats" />
-</a>
- 
+<h3 align="center">💬 Let's Connect</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/karan-gajjar">
+    <img src="https://img.shields.io/badge/LinkedIn-Karan%20Gajjar-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/gajjarkaran">
+    <img src="https://img.shields.io/badge/GitHub-gajjarkaran-lightgrey?style=flat&logo=github" alt="GitHub">
+  </a>
+</p>
