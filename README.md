@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Karan Gajjar
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gajjarkaran&color=brightgreen)
-![test](https://hit.yhype.me/github/profile?user_id=45651829)
+
 
 ## 🚀 About Me
 I'm a passionate Software Engineer with experience in building web applications using JavaScript, React, TypeScript, and other modern technologies. My focus is on creating efficient, scalable, and user-friendly solutions. I'm always looking to learn and grow in the field of software development.
@@ -32,3 +32,6 @@ I'm a passionate Software Engineer with experience in building web applications 
 - Building scalable web applications
 - Exploring new technologies in frontend and backend development
 - Continuous learning and improvement in software engineering
+
+
+![](https://hit.yhype.me/github/profile?user_id=45651829)
