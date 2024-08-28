@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Karan Gajjar
 
-![Profile Views](https://komarev.com/ghpvc/?username=gajjarkaran&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=gajjarkaran&color=brightblue)
 
 
 ## 🚀 About Me
@@ -32,6 +32,3 @@ I'm a passionate Software Engineer with experience in building web applications 
 - Building scalable web applications
 - Exploring new technologies in frontend and backend development
 - Continuous learning and improvement in software engineering
-
-
-![](https://hit.yhype.me/github/profile?username=gajjarkaran)
