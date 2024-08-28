@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Karan Gajjar
 
-![Profile Views](https://komarev.com/ghpvc/?username=gajjarkaran&color=lightblue)
+![Profile Views](https://komarev.com/ghpvc/?username=gajjarkaran&color=darkblue)
 
 
 ## 🚀 About Me
