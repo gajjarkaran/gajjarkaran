@@ -24,6 +24,9 @@ I'm a passionate Software Engineer with experience in building web applications 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gajjarkaran/)
 
+## 🏃 My GitHub Activity
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gajjarkaran&theme=react-dark&hide_border=true&area=true)
+
 ## 🏆 Achievements
 - **SaaS Internal Dashboard**: Led the development of an internal dashboard for a SaaS platform, improving data accessibility and operational efficiency.
 - **Component Reusability**: Enhanced code maintainability by applying object-oriented principles and reducing duplication in a large-scale React project.
