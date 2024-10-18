@@ -24,7 +24,7 @@ I'm a passionate Software Engineer with experience in building web applications 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gajjarkaran&theme=radical)
 
 ## 🏃 My GitHub Activity
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gajjarkaran&theme=react-dark&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gajjarkaran&theme=radical)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gajjarkaran/)
