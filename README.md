@@ -2,7 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gajjarkaran&color=brightgreen)
 
-
 ## 🚀 About Me
 I'm a passionate Software Engineer with experience in building web applications using JavaScript, React, TypeScript, and other modern technologies. My focus is on creating efficient, scalable, and user-friendly solutions. I'm always looking to learn and grow in the field of software development.
 
@@ -21,14 +20,14 @@ I'm a passionate Software Engineer with experience in building web applications 
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gajjarkaran&layout=compact&theme=radical)
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gajjarkaran/)
+## 🔥 My GitHub Streaks
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gajjarkaran&theme=radical)
 
 ## 🏃 My GitHub Activity
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gajjarkaran&theme=react-dark&hide_border=true&area=true)
 
-## 🔥 My GitHub Streaks
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gajjarkaran&theme=radical)
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gajjarkaran/)
 
 ## 🏆 Achievements
 - **SaaS Internal Dashboard**: Led the development of an internal dashboard for a SaaS platform, improving data accessibility and operational efficiency.
