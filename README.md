@@ -20,9 +20,6 @@ I'm a passionate Software Engineer with experience in building web applications 
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gajjarkaran&layout=compact&theme=radical)
 
-## 🔥 My GitHub Streaks
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gajjarkaran&theme=radical)
-
 ## 🏃 My GitHub Activity
 ![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gajjarkaran&theme=radical)
 
