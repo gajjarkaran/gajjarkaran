@@ -54,18 +54,18 @@
 
 ## 📌 Featured Projects
 <p align="center">
-  <!-- <a href="https://github.com/gajjarkaran/typing-master"> -->
+  <a href="https://github.com/gajjarkaran/typing-master">
     <img alt="typing-master" src="https://github-readme-stats.vercel.app/api/pin/?username=gajjarkaran&repo=typing-master&theme=radical&hide_border=true" />
-  <!-- </a> -->
+  </a>
   <a href="https://github.com/gajjarkaran/micro-frontend-demo">
     <img alt="micro-frontend-demo" src="https://github-readme-stats.vercel.app/api/pin/?username=gajjarkaran&repo=micro-frontend-demo&theme=radical&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <!-- <a href="https://github.com/gajjarkaran/typing-master"> -->
+  <a href="https://github.com/gajjarkaran/typing-master">
     <img alt="typing-master stars" src="https://img.shields.io/github/stars/gajjarkaran/typing-master?style=flat&label=typing-master%20stars" />
-  <!-- </a> -->
+  </a>
   <a href="https://github.com/gajjarkaran/micro-frontend-demo">
     <img alt="micro-frontend-demo stars" src="https://img.shields.io/github/stars/gajjarkaran/micro-frontend-demo?style=flat&label=micro-frontend-demo%20stars" />
   </a>
