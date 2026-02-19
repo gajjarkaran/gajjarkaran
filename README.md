@@ -96,15 +96,6 @@ A typing practice app focused on speed, accuracy, and a clean UI.
   <a href="https://github.com/gajjarkaran/typing-master">
     <img alt="Repo" src="https://img.shields.io/badge/Repo-typing--master-181717?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/gajjarkaran/typing-master/stargazers">
-    <img alt="Stars" src="https://img.shields.io/github/stars/gajjarkaran/typing-master?style=flat" />
-  </a>
-  <a href="https://github.com/gajjarkaran/typing-master/forks">
-    <img alt="Forks" src="https://img.shields.io/github/forks/gajjarkaran/typing-master?style=flat" />
-  </a>
-  <a href="https://github.com/gajjarkaran/typing-master/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/gajjarkaran/typing-master?style=flat" />
-  </a>
 </p>
 
 ### 🧩 Micro Frontend Demo
@@ -112,15 +103,6 @@ A demo setup exploring micro frontend architecture and integration patterns.
 <p>
   <a href="https://github.com/gajjarkaran/micro-frontend-demo">
     <img alt="Repo" src="https://img.shields.io/badge/Repo-micro--frontend--demo-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/gajjarkaran/micro-frontend-demo/stargazers">
-    <img alt="Stars" src="https://img.shields.io/github/stars/gajjarkaran/micro-frontend-demo?style=flat" />
-  </a>
-  <a href="https://github.com/gajjarkaran/micro-frontend-demo/forks">
-    <img alt="Forks" src="https://img.shields.io/github/forks/gajjarkaran/micro-frontend-demo?style=flat" />
-  </a>
-  <a href="https://github.com/gajjarkaran/micro-frontend-demo/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/gajjarkaran/micro-frontend-demo?style=flat" />
   </a>
 </p>
 
