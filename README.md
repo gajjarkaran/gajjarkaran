@@ -111,10 +111,3 @@ Tips:
 
 ## 🌐 Connect
 * LinkedIn: https://www.linkedin.com/in/gajjarkaran/
-
----
-
-## 🧩 Troubleshooting (if cards look broken)
-* If the Top Languages card looks blank, it can be rate limiting. Refresh later or add `&cache_seconds=21600`
-* If a card does not load, open the image URL in a new tab once, then refresh the README
-* Make sure the username is exactly `gajjarkaran` in every card URL
