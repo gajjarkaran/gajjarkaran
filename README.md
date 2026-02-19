@@ -1,10 +1,3 @@
-<!--
-Profile README for: gajjarkaran
-Tips:
-1) Replace the repo names in the "Featured" section with your best repos
-2) If any card fails to render, see the Troubleshooting section at the bottom
--->
-
 <h1 align="center">Hi, I’m Karan Gajjar 👋</h1>
 <p align="center">
   Software Engineer focused on building fast, scalable, user friendly web applications with React, TypeScript, and JavaScript.
@@ -60,37 +53,57 @@ Tips:
 ---
 
 ## 📌 Featured Projects
-<!-- Replace repo names below with your best work -->
 <p align="center">
-  <a href="https://github.com/gajjarkaran/YOUR_REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gajjarkaran&repo=YOUR_REPO_1&theme=radical&hide_border=true" />
+  <a href="https://github.com/gajjarkaran/typing-master">
+    <img alt="typing-master" src="https://github-readme-stats.vercel.app/api/pin/?username=gajjarkaran&repo=typing-master&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/gajjarkaran/YOUR_REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gajjarkaran&repo=YOUR_REPO_2&theme=radical&hide_border=true" />
+  <a href="https://github.com/gajjarkaran/micro-frontend-demo">
+    <img alt="micro-frontend-demo" src="https://github-readme-stats.vercel.app/api/pin/?username=gajjarkaran&repo=micro-frontend-demo&theme=radical&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/gajjarkaran/typing-master">
+    <img alt="typing-master stars" src="https://img.shields.io/github/stars/gajjarkaran/typing-master?style=flat&label=typing-master%20stars" />
+  </a>
+  <a href="https://github.com/gajjarkaran/micro-frontend-demo">
+    <img alt="micro-frontend-demo stars" src="https://img.shields.io/github/stars/gajjarkaran/micro-frontend-demo?style=flat&label=micro-frontend-demo%20stars" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 <p align="center">
   <img
-    alt="GitHub Stats"
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=gajjarkaran&show_icons=true&theme=radical&hide_border=true"
-  />
-  <img
-    alt="Top Languages"
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gajjarkaran&layout=compact&theme=radical&hide_border=true&langs_count=8"
+    alt="Profile Details"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gajjarkaran&theme=radical"
   />
 </p>
 
 <p align="center">
   <img
-    alt="GitHub Streak"
-    height="180"
-    src="https://streak-stats.demolab.com?user=gajjarkaran&theme=radical&hide_border=true"
+    alt="Stats"
+    height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gajjarkaran&theme=radical"
+  />
+  <img
+    alt="Top Languages"
+    height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gajjarkaran&theme=radical"
+  />
+</p>
+
+<p align="center">
+  <img
+    alt="Repos per Language"
+    height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gajjarkaran&theme=radical"
+  />
+  <img
+    alt="Most Used"
+    height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gajjarkaran&theme=radical&utcOffset=-6"
   />
 </p>
 
@@ -110,4 +123,10 @@ Tips:
 ---
 
 ## 🌐 Connect
-* LinkedIn: https://www.linkedin.com/in/gajjarkaran/
+<p>
+  <a href="https://www.linkedin.com/in/gajjarkaran/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
