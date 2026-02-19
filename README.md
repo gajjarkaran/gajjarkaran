@@ -52,6 +52,42 @@
 
 ---
 
+## 📊 GitHub Activity
+<p align="center">
+  <img
+    alt="Profile Details"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gajjarkaran&theme=radical"
+  />
+</p>
+
+<p align="center">
+  <img
+    alt="Stats"
+    height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gajjarkaran&theme=radical"
+  />
+  <img
+    alt="Top Languages"
+    height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gajjarkaran&theme=radical"
+  />
+</p>
+
+<p align="center">
+  <img
+    alt="Repos per Language"
+    height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gajjarkaran&theme=radical"
+  />
+  <img
+    alt="Most Used"
+    height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gajjarkaran&theme=radical&utcOffset=-6"
+  />
+</p>
+
+---
+
 ## 📌 Featured Projects
 
 ### ⌨️ Typing Master
@@ -86,42 +122,6 @@ A demo setup exploring micro frontend architecture and integration patterns.
   <a href="https://github.com/gajjarkaran/micro-frontend-demo/issues">
     <img alt="Issues" src="https://img.shields.io/github/issues/gajjarkaran/micro-frontend-demo?style=flat" />
   </a>
-</p>
-
----
-
-## 📊 GitHub Activity
-<p align="center">
-  <img
-    alt="Profile Details"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gajjarkaran&theme=radical"
-  />
-</p>
-
-<p align="center">
-  <img
-    alt="Stats"
-    height="165"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gajjarkaran&theme=radical"
-  />
-  <img
-    alt="Top Languages"
-    height="165"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gajjarkaran&theme=radical"
-  />
-</p>
-
-<p align="center">
-  <img
-    alt="Repos per Language"
-    height="165"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gajjarkaran&theme=radical"
-  />
-  <img
-    alt="Most Used"
-    height="165"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gajjarkaran&theme=radical&utcOffset=-6"
-  />
 </p>
 
 ---
