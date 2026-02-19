@@ -59,16 +59,12 @@
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gajjarkaran&theme=radical"
   />
 </p>
-
 <p align="center">
   <img
     alt="Stats"
     height="165"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gajjarkaran&theme=radical"
   />
-</p>
-
-<p align="center">
   <img
     alt="Repos per Language"
     height="165"
