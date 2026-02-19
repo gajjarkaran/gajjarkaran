@@ -69,7 +69,7 @@
   <img
     alt="Top Languages"
     height="165"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gajjarkaran&theme=radical"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gajjarkaran&theme=radical"
   />
 </p>
 
