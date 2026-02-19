@@ -39,24 +39,55 @@
 
 ---
 
-## Featured projects
-### ⌨️ typing-master
-Typing practice app focused on speed, accuracy, and a clean UI  
-<a href="https://github.com/gajjarkaran/typing-master">
-  <img alt="Repo" src="https://img.shields.io/badge/View%20Repo-typing--master-181717?style=flat&logo=github&logoColor=white" />
-</a>
-<img alt="Stars" src="https://img.shields.io/github/stars/gajjarkaran/typing-master?style=flat" />
-<img alt="Forks" src="https://img.shields.io/github/forks/gajjarkaran/typing-master?style=flat" />
-<img alt="Issues" src="https://img.shields.io/github/issues/gajjarkaran/typing-master?style=flat" />
+---
 
-### 🧩 micro-frontend-demo
-Micro frontend architecture demo and integration patterns  
-<a href="https://github.com/gajjarkaran/micro-frontend-demo">
-  <img alt="Repo" src="https://img.shields.io/badge/View%20Repo-micro--frontend--demo-181717?style=flat&logo=github&logoColor=white" />
-</a>
-<img alt="Stars" src="https://img.shields.io/github/stars/gajjarkaran/micro-frontend-demo?style=flat" />
-<img alt="Forks" src="https://img.shields.io/github/forks/gajjarkaran/micro-frontend-demo?style=flat" />
-<img alt="Issues" src="https://img.shields.io/github/issues/gajjarkaran/micro-frontend-demo?style=flat" />
+## 📌 Featured Projects
+
+### ⌨️ Typing Master Ultra Pro Max
+A modern typing speed test app built with React + Vite. Includes multiple test modes and a keyboard first experience.
+
+**What it includes**
+- Modes: Time, Words, Quote, Zen, and Custom Text  [oai_citation:0‡GitHub](https://github.com/gajjarkaran/typing-master)
+- Custom settings: punctuation and numbers toggle, duration or word count, and custom input text  [oai_citation:1‡GitHub](https://github.com/gajjarkaran/typing-master)
+- Real time stats and detailed results after each test, plus theme selection  [oai_citation:2‡GitHub](https://github.com/gajjarkaran/typing-master)
+- Responsive UI that works well on desktop and mobile  [oai_citation:3‡GitHub](https://github.com/gajjarkaran/typing-master)
+
+**Tech**
+React, Vite, SCSS, ESLint, React Icons  [oai_citation:4‡GitHub](https://github.com/gajjarkaran/typing-master)
+
+<p>
+  <a href="https://github.com/gajjarkaran/typing-master">
+    <img alt="Repo" src="https://img.shields.io/badge/View%20Repo-typing--master-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://gajjarkaran.github.io/typing-master/">
+    <img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-2ea44f?style=flat&logo=githubpages&logoColor=white" />
+  </a>
+  <img alt="Stars" src="https://img.shields.io/github/stars/gajjarkaran/typing-master?style=flat" />
+  <img alt="Forks" src="https://img.shields.io/github/forks/gajjarkaran/typing-master?style=flat" />
+</p>
+
+---
+
+### 🧩 Micro Frontend Demo
+A simple micro frontend setup demonstrating Module Federation with React. A container app loads three independent micro frontends at runtime.
+
+**Architecture**
+- Container app on port 3000 loads three remotes: Header (3001), Content (3002), Footer (3003)  [oai_citation:5‡GitHub](https://github.com/gajjarkaran/micro-frontend-demo)
+- Module Federation config shares React and React DOM as singletons to avoid duplicate runtime copies  [oai_citation:6‡GitHub](https://github.com/gajjarkaran/micro-frontend-demo)
+- Each micro frontend runs independently, enabling isolated development and testing  [oai_citation:7‡GitHub](https://github.com/gajjarkaran/micro-frontend-demo)
+
+**Tech**
+React 18, Webpack 5, Module Federation, CRACO  [oai_citation:8‡GitHub](https://github.com/gajjarkaran/micro-frontend-demo)
+
+<p>
+  <a href="https://github.com/gajjarkaran/micro-frontend-demo">
+    <img alt="Repo" src="https://img.shields.io/badge/View%20Repo-micro--frontend--demo-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <img alt="Stars" src="https://img.shields.io/github/stars/gajjarkaran/micro-frontend-demo?style=flat" />
+  <img alt="Forks" src="https://img.shields.io/github/forks/gajjarkaran/micro-frontend-demo?style=flat" />
+</p>
+
+---
 
 ---
 
